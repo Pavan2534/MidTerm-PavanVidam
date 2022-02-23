@@ -1,0 +1,7 @@
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\bin\Debug\byteConversion.exe.config
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\bin\Debug\byteConversion.exe
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\bin\Debug\byteConversion.pdb
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\obj\Debug\byteConversion.csproj.AssemblyReference.cache
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\obj\Debug\byteConversion.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\obj\Debug\byteConversion.exe
+C:\Users\Pavan Vidam\source\repos\byteConversion\byteConversion\obj\Debug\byteConversion.pdb
